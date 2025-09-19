@@ -1,0 +1,47 @@
+#about{
+    padding: 40px;;
+}
+
+h1{
+    color: #2C3E50;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.aboutContainer{
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    align-items: center;
+    color: #415d78;
+    background-color: #B0C4B1;
+    border-radius: 8px;
+}
+
+.fotoContainer{
+    flex: 1;
+}
+
+.imgAbout{
+    width: 100%;
+    max-width: 300px;
+    border-radius: 8px;
+}
+
+.textContainer{
+    flex: 2;
+    text-align: justify;
+}
+
+.buttonDownload{
+    text-decoration: none;
+    color: #415d78;
+}
+
+.imgCV{
+    margin-top: 5px;;
+    margin-left: 10px;
+    align-items: center;
+}

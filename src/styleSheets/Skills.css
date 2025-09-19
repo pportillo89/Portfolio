@@ -1,0 +1,53 @@
+.skillsContainer{
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-bottom: 40px;
+    align-items: center; /* Centra verticalmente los hijos */
+    color: #415d78;
+    background-color: #B0C4B1;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column; /* Alinear los elementos verticalmente */
+}
+
+.languageContainer{
+    width: auto;
+    display: flex;
+    flex-direction: column;      /* Alinear las filas en columna */
+    align-items: center;         /* Centra las filas horizontalmente */
+    padding: 30px;
+}
+
+.imageProgramm{
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    max-width: 100%;
+  height: auto;
+  /* Agrega transición opcional para suavizar el cambio */
+  transition: width 0.2s, height 0.2s;
+}
+
+.skillRow {
+    display: flex;
+    justify-content: center;     /* Centra las imágenes horizontalmente */
+    align-items: center;         /* Centra las imágenes verticalmente (si el contenedor tiene altura) */
+    gap: 20px;                  /* Espacio entre imágenes */
+    margin-bottom: 20px;
+    width: 100%;                 /* Opcional: ocupa todo el ancho disponible */
+    margin-top: 40px;
+    flex-wrap: wrap; /* permite que las imágenes salten a otra línea */
+}
+
+@media (max-width: 600px) {
+  .skillRow {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .imageProgramm {
+    width: 60%;
+    max-width: 120px;
+    /* Opcional: limita el ancho máximo */
+  }
+}

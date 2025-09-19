@@ -1,0 +1,47 @@
+{
+    "navbar":{
+        "header" : "Portfolio",
+        "lang_es" : "Spanish",
+        "lang_en" : "English",
+        "lang_de" : "German",
+        "aboutMe" : "About Me",
+        "project" : "Project",
+        "contact" : "Contact"
+    },
+     "home" : {
+        "title" : "Hello, I am Paola Portillo",
+        "subtitle" : "Frontend Development UI/UX",
+        "description" : "I create clean, functional and attractive digital experiences",
+        "phrase" :"Fall in love with the problem, not the solution",
+        "portfolio" : "View Portfolio"
+
+    },
+    "about":{
+        "title" : "About Me",
+        "p1" : "I am a Salvadoran professional living in Germany for 7 years. I have 6 years of experience in IT, specializing in Frontend and Backend interface development as well as database management. Throughout my career, I have played various roles within the IT field, which has allowed me to acquire a comprehensive vision of the sector. In addition, I have training in UX/UI web design, providing me with a solid combination of technical skills and a user experience focus.",
+        "p2" : "I have worked in multilingual environments mastering Spanish, English, and German. I am committed to continuous learning and am currently seeking opportunities to re-enter the web design field. At the same time, I develop personal projects and manage digital content, which reflects my creativity and self-management skills.",
+        "cv" : "Learn more about me"
+    },
+    "project":{
+        "title" : "Projects",
+        "reiseSchatz": "During the Web Design course, one of the main requirements was to develop a web project applying the knowledge acquired in class, with a special focus on responsive web design. For this, I decided to create a personal travel blog. Through the provided link, you can view the final result of this project, which seeks to demonstrate both the technical skills and the creative approach achieved during the course.",
+        "findOMat" : "During the UX/UI Design course, I worked with a team of three people to develop a group project, in which we participated from the conception of the idea to the complete design of a mobile application. The objective of the project was to develop a mobile app for finding vending machines in the user's location. I was responsible for the technical design of the application and for implementing the workflow and the interactions between its various screens. ",
+        "site": "Go to site",
+        "portfolioT": "Portfolio",
+        "portfolio" : "This project is my personal portfolio, developed using React to build interactive and dynamic components, along with HTML and CSS for layout and visual styling. The portfolio showcases my technical and creative skills, presenting my professional experiences, featured projects, and web development capabilities. I have used React to structure the content in a modular way and ensure smooth navigation, while HTML and CSS provide a clean, responsive, and attractive interface for different devices. This portfolio reflects my commitment to quality, user-centered design, and my ability to create modern and functional web applications."
+    },
+    "skills" :{
+        "title" : "IT Skills",
+        "programm" :"Programming Languages",
+        "db" : "Database",
+        "design":"Graphic Design Software",
+        "project": "Project Management",
+        "so" : "Operative System, IDE's"
+    },
+    "contact":{
+        "title" : "Contact",
+        "description" : "Let's work together. It will be a pleasure to discuss how I can add value to your team.",
+        "email" : "email:"
+    }
+
+}

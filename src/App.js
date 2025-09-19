@@ -1,24 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import AboutMe from './components/AboutMe';
+import Navbar from './components/Navbar';
+import Project from './components/Project';
+import Contact from './components/Contact';
+import Home from './components/Home';
+import Skills from './components/Skills';
+import { useTranslation } from 'react-i18next';
+
 
 function App() {
+  const { t, i18n } = useTranslation();
+
+  const cambioIdioma = (idioma) => {
+    i18n.changeLanguage(idioma);
+  }
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <main>
+      <Navbar />
+      <Home />
+      <AboutMe />
+      <Project />
+      <Skills />
+      <Contact />
+    </main>
   );
 }
 

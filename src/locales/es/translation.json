@@ -1,0 +1,46 @@
+{
+    "navbar":{
+        "header" : "Portafolio",
+        "lang_es" : "Español",
+        "lang_en" : "Ingles",
+        "lang_de" : "Alemán",
+        "aboutMe" : "Sobre Mi",
+        "project" : "Proyectos",
+        "contact" : "Contactos"
+    },
+    "home" : {
+        "title" : "Hola, soy Paola Portillo",
+        "subtitle" : "Desarrolladora Frontend UI/UX",
+        "description" : "Creo experiencias digitales limpias, funcionales y atractivas",
+        "phrase" :"Enamorate del problema y no de la solución",
+        "portfolio" :"Ver Portafolio"
+
+    },
+    "about":{
+        "title" : "Acerca de Mi",
+        "p1" :"Soy una profesional salvadoreña que vive en Alemania desde hace 7 años.Cuento con 6 años de experiencia en IT, especializándome en desarrollo de interfaces Frontend y Backend, así como en gestión de bases de datos. A lo largo de mi carrera, he desempeñado diversos roles dentro del área de IT, lo que me ha permitido adquirir una visión integral del sector. Además, tengo formación en diseño web UX/UI, lo que me ha brindado una combinación sólida entre habilidades técnicas y enfoque en la experiencia del usuario.",
+        "p2":"He trabajado en entornos multilingües dominando español, inglés y alemán. Estoy comprometida con el aprendizaje continuo y actualmente busco oportunidades para reincorporarme en el área de diseño web. Paralelamente, desarrollo proyectos personales y gestiono contenidos digitales, lo que refleja mi creatividad y capacidad de autogestión.",
+        "cv" : "Conoce más sobre mi"
+    },
+    "project":{
+        "title" : "Proyectos",
+        "reiseSchatz": "Durante el curso de Webdesign, uno de los requisitos principales fue desarrollar un proyecto web aplicando los conocimientos adquiridos en clase, con especial foco en el diseño web responsivo.Para ello, decidí crear un blog personal de viajes. A través del enlace proporcionado puede visualizar el resultado final de este proyecto, que busca demostrar tanto las competencias técnicas como el enfoque creativo logrados durante el curso",
+        "findOMat" : "Durante el curso de UX/UI Design, desarrollé junto a un equipo de tres personas un proyecto grupal, en el que participamos desde la concepción de la idea hasta el diseño completo de una aplicación móvil. El objetivo del proyecto era desarrollar una aplicación móvil para encontrar máquinas expendedoras en la ubicación del usuario. Fui responsable del diseño técnico de la aplicación y de la implementación del flujo de trabajo y las interacciones entre las distintas pantallas.",
+        "site": "Ir al sitio",
+        "portfolioT": "Portafolio",
+        "portfolio" : "Este proyecto es mi portafolio personal desarrollado utilizando React para construir componentes interactivos y dinámicos, junto con HTML y CSS para el diseño y estilo visual. El portafolio muestra mis habilidades técnicas y creativas, presentando mis experiencias profesionales, proyectos destacados y capacidades en desarrollo web. He utilizado React para estructurar el contenido de manera modular y facilitar la navegación fluida, mientras que HTML y CSS proporcionan una interfaz limpia, responsive y atractiva para diferentes dispositivos. Este portafolio refleja mi compromiso con la calidad, el diseño centrado en el usuario y mi capacidad para crear aplicaciones web modernas y funcionales."
+    },
+    "skills" :{
+        "title" : "Conocimientos",
+        "programm" :"Lenguajes de Programación",
+        "db" : "Base de Datos",
+        "design":"Software de Diseño",
+        "project": "Gestión de Proyectos",
+        "so" : "Sistemas Operativos, IDE's"
+    },
+    "contact":{
+        "title" : "Contacto",
+        "description" : "Trabajemos juntos. Será un gusto conversar sobre cómo puedo aportar valor a su equipo.",
+        "email" : "correo:"
+    }
+}

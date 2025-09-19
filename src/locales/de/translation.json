@@ -1,0 +1,46 @@
+{
+    "navbar":{
+        "header" : "Portfolio",
+        "lang_es" : "Spanisch",
+        "lang_en" : "Englisch",
+        "lang_de" : "Deutsch",
+        "aboutMe" : "Über Mich",
+        "project" : "Projekte",
+        "contact" : "Kontakt"       
+    },
+     "home" : {
+        "title" : "Hallo, Ich bin Paola Portillo",
+        "subtitle" : "Frontend Development UI/UX",
+        "description" : "Ich erstelle saubere, funktionale und ansprechende digitale Erlebnisse.",
+        "phrase" :"Verliebe dich in das Problem, nicht in die Lösung.",
+        "portfolio" : "Portfolio ansehen"
+
+    },
+    "about":{
+        "title" : "über Mich",
+        "p1" : "Ich bin eine salvadorianische Fachkraft und lebe seit 7 Jahren in Deutschland. Ich verfüge über 6 Jahre Berufserfahrung in der IT, spezialisiert auf Frontend- und Backend-Schnittstellenentwicklung sowie Datenbankverwaltung. Im Laufe meiner Karriere habe ich verschiedene Rollen im IT-Bereich übernommen, was mir eine umfassende Sicht auf den Sektor ermöglicht hat. Darüber hinaus habe ich eine Ausbildung im UX/UI-Webdesign absolviert, wodurch ich eine solide Kombination aus technischem Know-how und Benutzererfahrungsfokus mitbringe.",
+        "p2" : "Ich habe in mehrsprachigen Umgebungen gearbeitet und beherrsche Spanisch, Englisch und Deutsch. Ich engagiere mich für kontinuierliches Lernen und suche derzeit nach Möglichkeiten, wieder in den Bereich Webdesign einzusteigen. Gleichzeitig entwickle ich persönliche Projekte und verwalte digitale Inhalte, was meine Kreativität und Selbstmanagementfähigkeiten widerspiegelt",
+        "cv" : "Mehr über mich erfahren"
+    },
+    "project":{
+        "title" : "Projekte",
+        "reiseSchatz": "Ich im Webdesign-Kurs mit Responsive Webdesign erstellt habe. Das Ziel des Projekts war es, eine Website mit den im Unterricht erlernten Komponenten zu erstellen. In meinem Fall habe ich mich für einen persönlichen Reiseblog entschieden.",
+        "findOMat" : "Der Kurs „UX/UI-Design“ ansehen, bei dem wir in einer Gruppe (3-Personen) von der Ideenfindung bis hin zur Gestaltung der App zusammengearbeitet haben. Ziel des Projektes war die Entwicklung einer mobilen App zur Suche nach Verkaufsautomaten am Standort des Nutzers. Ich war für das technische Design der App und die Implementierung des Ablaufs und der Interaktionen zwischen den verschiedenen Screens verantwortlich.",
+        "site": "Go to site",
+        "portfolioT": "Portfolio",
+        "portfolio" : "Dieses Projekt ist mein persönliches Portfolio, das ich mit React entwickelt habe, um interaktive und dynamische Komponenten zu erstellen, zusammen mit HTML und CSS für Layout und visuelles Design. Das Portfolio präsentiert meine technischen und kreativen Fähigkeiten, indem es meine beruflichen Erfahrungen, ausgewählte Projekte und meine Kompetenzen in der Webentwicklung darstellt. Ich habe React verwendet, um die Inhalte modular zu strukturieren und eine reibungslose Navigation zu gewährleisten, während HTML und CSS eine saubere, responsive und ansprechende Benutzeroberfläche für verschiedene Geräte bieten. Dieses Portfolio spiegelt mein Engagement für Qualität, nutzerzentriertes Design sowie meine Fähigkeit wider, moderne und funktionale Webanwendungen zu entwickeln."
+    },
+    "skills" :{
+        "title" : "IT Ketnisse",
+        "programm" :"Programmiersprache",
+        "db" : "Databanken",
+        "design":"Graphikdesign Software",
+        "project": "Project Management",
+        "so" : "Betriebssysteme, IDE's"
+    },
+    "contact":{
+        "title" : "Kontact",
+        "description" : "Lassen Sie uns zusammenarbeiten. Es wäre mir eine Freude, zu besprechen, wie ich Ihrem Team Mehrwert bieten kann.",
+        "email" : "email:"
+    }
+}

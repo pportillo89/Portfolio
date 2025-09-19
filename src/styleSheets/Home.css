@@ -1,0 +1,70 @@
+#home{
+    text-align: center;
+    height: 100%;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.homeContainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 100px;
+}
+
+.left{
+    flex: 1;
+    padding-bottom: 10rem;
+    padding-top: 4rem;
+}
+
+.right{
+    flex: 2;
+    padding-bottom: 10rem;
+    padding-top: 8rem;
+}
+
+.imageHome{
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+}
+
+.name{
+    padding: 10px;
+    font-size: 2rem;
+    color: #2C3E50;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+.description{
+    padding: 10px;
+    font-size: 1rem;
+    color: #777;
+}
+
+.btnPortafolio{
+     padding: "0.75rem 2rem";
+     background-color: #B0C4B1;
+     color: #fff;
+     border-radius: 4px;
+     text-decoration: none;
+     font-weight: 600;
+     transition: background-color 0.3s ease-in-out ;
+}
+
+.btnPortafolio:hover{
+    background-color: #679267;
+}
+
+@media (max-width: 768px) {
+  .homeContainer {
+    flex-direction: column;
+    padding: 20px; /* Ajuste opcional para menos padding en móvil */
+  }
+  .right, .left {
+    padding-top: 2rem; /* Reducir padding superior */
+  }
+}
+ 
