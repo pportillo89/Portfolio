@@ -60,3 +60,46 @@
 .language-menu button:hover {
   background-color: #f0f0f0;
 }
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 12px;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    display: none; /* Oculto por defecto en móvil */
+  }
+
+  .nav-links.active {
+    display: flex; /* Se muestra al abrir menú tipo hamburguesa */
+  }
+
+  .logo {
+    font-size: 1.2rem;
+  }
+
+  .languageSelector {
+    margin-top: 10px;
+    width: 100%;
+  }
+}
+
+.menu-toggle {
+  font-size: 2rem;
+  background: none;
+  border: none;
+  color: white;
+  display: none;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+}

@@ -6,6 +6,7 @@ import { useTranslation } from 'react-i18next';
 function Navbar() {
   const { i18n } = useTranslation();
   const [menuVisible, setMenuVisible] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false); // Nuevo estado para móvil
   const { t } = useTranslation("translate");
 
   const cambiarIdioma = (lang) => {
@@ -18,8 +19,13 @@ function Navbar() {
       <div className="navbar-left">
         <a href="/" className="logo">{t("navbar.header")}</a>
       </div>
+      {/* Botón burger para móvil */}
+      <button className="menu-toggle" onClick={() => setMenuOpen(!menuOpen)}>
+        &#9776;
+      </button>
       <div className="navbar-center">
-        <ul className="nav-links">
+        {/* Cambia la clase con based en el estado */}
+        <ul className={`nav-links ${menuOpen ? 'active' : ''}`}>
           <li className="languageSelector">
             <img
             className="languages"
