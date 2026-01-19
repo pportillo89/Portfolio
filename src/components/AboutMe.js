@@ -12,13 +12,13 @@ import { useTranslation } from 'react-i18next';
     let cvName;
 
     if (idioma === 'es') {
-    cvFile = "/PaolaPortillo_es.pdf";
+    cvFile = "/Portfolio/PaolaPortillo_es.pdf";
     cvName = "PaolaPortillo_es.pdf";
     } else if (idioma === 'en') {
-    cvFile = "/PaolaPortillo_en.pdf";
+    cvFile = "/Portfolio//PaolaPortillo_en.pdf";
     cvName = "PaolaPortillo_en.pdf";
     } else if (idioma === 'de') {
-    cvFile = "/PaolaPortillo_de.pdf";
+    cvFile = "/Portfolio//PaolaPortillo_de.pdf";
     cvName = "PaolaPortillo_de.pdf";
     } else {
     // Por defecto español
