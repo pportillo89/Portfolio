@@ -18,8 +18,8 @@
     },
     "about":{
         "title" : "über Mich",
-        "p1" : "Ich bin eine salvadorianische Fachkraft und lebe seit 7 Jahren in Deutschland. Ich verfüge über 6 Jahre Berufserfahrung in der IT, spezialisiert auf Frontend- und Backend-Schnittstellenentwicklung sowie Datenbankverwaltung. Im Laufe meiner Karriere habe ich verschiedene Rollen im IT-Bereich übernommen, was mir eine umfassende Sicht auf den Sektor ermöglicht hat. Darüber hinaus habe ich eine Ausbildung im UX/UI-Webdesign absolviert, wodurch ich eine solide Kombination aus technischem Know-how und Benutzererfahrungsfokus mitbringe.",
-        "p2" : "Ich habe in mehrsprachigen Umgebungen gearbeitet und beherrsche Spanisch, Englisch und Deutsch. Ich engagiere mich für kontinuierliches Lernen und suche derzeit nach Möglichkeiten, wieder in den Bereich Webdesign einzusteigen. Gleichzeitig entwickle ich persönliche Projekte und verwalte digitale Inhalte, was meine Kreativität und Selbstmanagementfähigkeiten widerspiegelt",
+        "p1" : "Ich bin eine erfahrene IT-Fachkraft aus El Salvador und lebe seit 7 Jahren in Deutschland. Ich verfüge über 5 Jahre Berufserfahrung in der IT, mit Fokus auf Frontend- und Backend-Entwicklung sowie Datenbankmanagement. Durch meine bisherigen Rollen, unter anderem bei Garmin, habe ich eine ganzheitliche Sicht auf technische Prozesse entwickelt.",
+        "p2" : "Dank meiner zusätzlichen Ausbildung im UI/UX-Design verbinde ich technisches Know-how mit einem starken Fokus auf die Benutzererfahrung. Ich arbeite sicher in multilinguellen Umgebungen (Spanisch, Englisch, Deutsch) und setze meine Kreativität aktuell in persönlichen Projekten ein, um funktionale und nutzerzentrierte digitale Lösungen zu schaffen.",
         "cv" : "Mehr über mich erfahren"
     },
     "project":{
@@ -28,7 +28,7 @@
         "findOMat" : "Der Kurs „UX/UI-Design“ ansehen, bei dem wir in einer Gruppe (3-Personen) von der Ideenfindung bis hin zur Gestaltung der App zusammengearbeitet haben. Ziel des Projektes war die Entwicklung einer mobilen App zur Suche nach Verkaufsautomaten am Standort des Nutzers. Ich war für das technische Design der App und die Implementierung des Ablaufs und der Interaktionen zwischen den verschiedenen Screens verantwortlich.",
         "site": "Go to site",
         "portfolioT": "Portfolio",
-        "portfolio" : "Dieses Projekt ist mein persönliches Portfolio, das ich mit React entwickelt habe, um interaktive und dynamische Komponenten zu erstellen, zusammen mit HTML und CSS für Layout und visuelles Design. Das Portfolio präsentiert meine technischen und kreativen Fähigkeiten, indem es meine beruflichen Erfahrungen, ausgewählte Projekte und meine Kompetenzen in der Webentwicklung darstellt. Ich habe React verwendet, um die Inhalte modular zu strukturieren und eine reibungslose Navigation zu gewährleisten, während HTML und CSS eine saubere, responsive und ansprechende Benutzeroberfläche für verschiedene Geräte bieten. Dieses Portfolio spiegelt mein Engagement für Qualität, nutzerzentriertes Design sowie meine Fähigkeit wider, moderne und funktionale Webanwendungen zu entwickeln."
+        "portfolio" : "Persönliches Portfolio entwickelt mit React, HTML und CSS. Fokus auf modulare Komponenten, responsives Design und eine intuitive Benutzeroberfläche zur Demonstration meiner Frontend- und UI/UX-Kompetenzen."
     },
     "skills" :{
         "title" : "IT Ketnisse",
@@ -36,7 +36,7 @@
         "db" : "Databanken",
         "design":"Graphikdesign Software",
         "project": "Project Management",
-        "so" : "Betriebssysteme, IDE's"
+        "so" : "Tools, Betriebssysteme, IDE's"
     },
     "contact":{
         "title" : "Kontact",

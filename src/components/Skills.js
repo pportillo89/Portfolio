@@ -38,10 +38,6 @@ function Skills(){
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
                         alt="Java"/>
 
-                        <img className="imageProgramm"
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-                        alt="GitHub" />
-
                     </div>
                     <br></br>
                     <h3>{t("skills.db")}</h3>
@@ -101,12 +97,17 @@ function Skills(){
                     <h3>{t("skills.so")}</h3>
                     <div className="skillRow">
                         <img className="imageProgramm"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+                        alt="GitHub" />
+                        
+                        <img className="imageProgramm"
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" 
                         alt="Linux"/>
           
                         <img className="imageProgramm"
                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
                         alt="VisualStudio" />
+
                     </div>
                 </div>
             </div>

@@ -18,8 +18,8 @@
     },
     "about":{
         "title" : "Acerca de Mi",
-        "p1" :"Soy una profesional salvadoreña que vive en Alemania desde hace 7 años.Cuento con 6 años de experiencia en IT, especializándome en desarrollo de interfaces Frontend y Backend, así como en gestión de bases de datos. A lo largo de mi carrera, he desempeñado diversos roles dentro del área de IT, lo que me ha permitido adquirir una visión integral del sector. Además, tengo formación en diseño web UX/UI, lo que me ha brindado una combinación sólida entre habilidades técnicas y enfoque en la experiencia del usuario.",
-        "p2":"He trabajado en entornos multilingües dominando español, inglés y alemán. Estoy comprometida con el aprendizaje continuo y actualmente busco oportunidades para reincorporarme en el área de diseño web. Paralelamente, desarrollo proyectos personales y gestiono contenidos digitales, lo que refleja mi creatividad y capacidad de autogestión.",
+        "p1" :"Soy una profesional en IT de origen salvadoreño y residente en Alemania desde hace 7 años. Cuento con 5 años de experiencia en el sector, especializándome en el desarrollo de interfaces Frontend y Backend, así como en la gestión de bases de datos. Mi trayectoria, que incluye experiencia en empresas como Garmin, me ha permitido adquirir una visión integral del área técnica.",
+        "p2":"Además, cuento con formación en diseño web UI/UX, lo que me aporta una combinación sólida entre capacidad técnica y un enfoque profundo en la experiencia del usuario. Dominio el español, inglés y alemán, y actualmente aplico mi creatividad y aprendizaje continuo en el desarrollo de soluciones digitales funcionales y centradas en el usuario.",
         "cv" : "Conoce más sobre mi"
     },
     "project":{
@@ -36,7 +36,7 @@
         "db" : "Base de Datos",
         "design":"Software de Diseño",
         "project": "Gestión de Proyectos",
-        "so" : "Sistemas Operativos, IDE's"
+        "so" : "Herramientas, Sistemas Operativos, IDE's"
     },
     "contact":{
         "title" : "Contacto",

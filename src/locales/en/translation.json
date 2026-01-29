@@ -18,8 +18,8 @@
     },
     "about":{
         "title" : "About Me",
-        "p1" : "I am a Salvadoran professional living in Germany for 7 years. I have 6 years of experience in IT, specializing in Frontend and Backend interface development as well as database management. Throughout my career, I have played various roles within the IT field, which has allowed me to acquire a comprehensive vision of the sector. In addition, I have training in UX/UI web design, providing me with a solid combination of technical skills and a user experience focus.",
-        "p2" : "I have worked in multilingual environments mastering Spanish, English, and German. I am committed to continuous learning and am currently seeking opportunities to re-enter the web design field. At the same time, I develop personal projects and manage digital content, which reflects my creativity and self-management skills.",
+        "p1" : "I am an IT professional from El Salvador, living in Germany for the past 7 years. I bring 5 years of experience in the IT sector, specializing in Frontend and Backend interface development and database management. My career path, including my time at Garmin, has given me a comprehensive understanding of the tech industry.",
+        "p2" : "Furthermore, my training in UI/UX Web Design allows me to perfectly balance technical skills with a user-centered approach. Having worked in multilingual environments (Spanish, English, and German), I am a continuous learner currently focused on creating highly functional and aesthetic digital solutions.",
         "cv" : "Learn more about me"
     },
     "project":{
@@ -36,7 +36,7 @@
         "db" : "Database",
         "design":"Graphic Design Software",
         "project": "Project Management",
-        "so" : "Operative System, IDE's"
+        "so" : "Tools, Operative System, IDE's"
     },
     "contact":{
         "title" : "Contact",
